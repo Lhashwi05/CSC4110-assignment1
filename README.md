@@ -1,5 +1,4 @@
-\# GitHub and git conflict
-
+# GitHub and git conflict
 Leah Hashwi
 Hp4396
 
